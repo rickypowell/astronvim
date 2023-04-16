@@ -11,6 +11,7 @@ return {
       "typescript",
       "tsx",
       "rust",
+      "swift",
     },
   },
 }
